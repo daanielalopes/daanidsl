@@ -1,7 +1,7 @@
-<h1 align="center">🎧 now playing: dani.exe 💙🩷</h1>
+<h1 align="center">🎧 now playing: dani.exe 🩷</h1>
 
 <p align="center">
-  <em>uma playlist de código, café e coisas bonitas</em>
+  <em>uma playlist de código, café e novos aprendizados</em>
 </p>
 
 <br>
