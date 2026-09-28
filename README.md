@@ -28,7 +28,6 @@
 
 - 🎶 quase sempre codando ao som do Harry Styles
 - 🧠 gosto de aprender coisas novas o tempo todo
-- 🌙 rendo melhor de noite
 - ☕ café é indispensável
 
 <br>
@@ -54,7 +53,7 @@
 
 ## 🎼 trilha sonora do momento
 
-🎵 Fine Line &nbsp;·&nbsp; Season 2 &nbsp;·&nbsp; Weight Loss &nbsp;·&nbsp; Carla's Song
+🎵 Fine Line &nbsp;·&nbsp; Season 2 Weight Loss &nbsp;·&nbsp; Carla's Song
 
 <br>
 
