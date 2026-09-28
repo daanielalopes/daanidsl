@@ -35,13 +35,13 @@
 
 ## 🎵 side B — tracklist (a stack)
 
-| # | faixa | álbum |
-|---|-------|-------|
-| 01 | **C#** | *back-end favorites* |
-| 02 | **Python** | *versáteis & queridas* |
-| 03 | **Java** | *clássicos atemporais* |
-| 04 | **JavaScript** | *front-end on repeat* |
-| 05 | **HTML & CSS** | *a base de tudo* |
+| # | faixa |
+|---|-------|
+| 01 | **C#** |
+| 02 | **Python** |
+| 03 | **Java** |
+| 04 | **JavaScript** |
+| 05 | **HTML & CSS** |
 
 <sub>🎶 badges na mesma vibe:</sub>
 
