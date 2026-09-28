@@ -33,7 +33,7 @@
 
 <br>
 
-## 🎵 side B — tracklist (a stack)
+## 🎵 side B — tracklist (stacks)
 
 | # | faixa |
 |---|-------|
@@ -42,8 +42,6 @@
 | 03 | **Java** |
 | 04 | **JavaScript** |
 | 05 | **HTML & CSS** |
-
-<sub>🎶 badges na mesma vibe:</sub>
 
 ![C#](https://img.shields.io/badge/-C%23-A7D8F0?style=flat&logo=csharp&logoColor=3A5A7A)
 ![Python](https://img.shields.io/badge/-Python-F7C8D0?style=flat&logo=python&logoColor=3A5A7A)
@@ -77,5 +75,5 @@
 <br>
 
 <p align="center">
-  <sub>💙🩷 obrigada por dar play · <code>track 01 of ∞</code></sub>
+  <sub>💙 obrigada por dar play · <code>track 01 of ∞</code></sub>
 </p>
